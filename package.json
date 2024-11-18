@@ -1,0 +1,16 @@
+{
+  "name": "25demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i",
+    "test": "jest --coverage --coverageReporters='json-summary' --coverageReporters='lcov'",
+    "lint": "echo lint...."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

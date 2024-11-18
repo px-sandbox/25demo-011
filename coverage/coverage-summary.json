@@ -1,0 +1,60 @@
+{
+    "total": {
+        "lines": {
+            "total": 6,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 83.33
+        },
+        "statements": {
+            "total": 6,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 83.33
+        },
+        "functions": {
+            "total": 2,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 50
+        },
+        "branches": {
+            "total": 2,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 50
+        },
+        "branchesTrue": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": "Unknown"
+        }
+    },
+    "/Users/aditimishra/Desktop/25Demo/25demo-011/index.js": {
+        "lines": {
+            "total": 6,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 83.33
+        },
+        "functions": {
+            "total": 2,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 50
+        },
+        "statements": {
+            "total": 6,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 83.33
+        },
+        "branches": {
+            "total": 2,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 50
+        }
+    }
+}
